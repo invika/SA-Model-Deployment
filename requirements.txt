@@ -1,0 +1,7 @@
+Flask==3.0.0
+pandas==2.0.3
+tensorflow==2.14.0
+torch==2.0.1
+transformers==4.33.3
+nltk==3.9.0
+
